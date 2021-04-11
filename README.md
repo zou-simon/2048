@@ -11,10 +11,10 @@ Le jeu est terminé quand la grille est remplie et qu’un rassemblement n’est
 ### Les fonctionnalités
 
 - Grille 4x4, une tuile sur une case de la grille.
-- Débute avec deux tuiles 2, aléatoirement placées.
+- Débute avec deux tuiles de 2 ou 4, aléatoirement placées.
 - Jouable avec les flèches directionnelles du clavier.
-- Chaque mouvement fait apparaître une tuile 2 sur une case aléatoire de la grille.
-- Système de score, le total de chaque rassemblement est ajouté au score. Le meilleur score est enregistré.
+- Chaque mouvement fait apparaître une tuile de 2 ou 4 sur une case aléatoire de la grille.
+- Système de score, à chaque rassemblement, le total est rajouté au score. Le meilleur score est enregistré.
 - Recommencer une nouvelle partie.
 - Revenir à un déplacement en arrière.
 - Marquer les derniers tuiles qui sont additionnées
